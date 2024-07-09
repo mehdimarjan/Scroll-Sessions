@@ -5,7 +5,7 @@ function Footer() {
         Made with ❤️ by{" "}
         <a
           className="hover:underline"
-          href="https://github.com/mehdimarjan/scroll-session"
+          href="https://github.com/mehdimarjan/scroll-sessions"
           target="blank"
         >
           Mehdi Marjan
